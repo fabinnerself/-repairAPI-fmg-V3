@@ -111,11 +111,11 @@ curl --location --request DELETE 'localhost:3000/api/v1/users/1'
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/motorcycle-repair-api.git
+   git clone https://github.com/fabinnerself/-repairAPI-fmg-V3.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd motorcycle-repair-api
+   cd -repairAPI-fmg-V3/
    ```
 3. Install dependencies:
    ```bash
@@ -125,14 +125,14 @@ curl --location --request DELETE 'localhost:3000/api/v1/users/1'
 
 ### Running the Server
 ```bash
-npm run start
+npm run dev
 ```
 
 ---
 
 
 ## Additional Documentation
-A detailed Postman collection documenting the API endpoints is available at the following link: [Postman Documentation](https://documenter.getpostman.com/view/22674808/2sAYQanret).
+A detailed Postman collection documenting the API endpoints is available at the following link: [Postman Documentation](https://documenter.getpostman.com/view/22674808/2sAYQggnth).
 
 
 ## Contributing
